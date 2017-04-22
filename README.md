@@ -62,7 +62,7 @@ css 属性书写顺序推荐
 　　　　　　| 鼠标手势：cursor  
 　　　　　　| 可见性  ：visibility  
 　　　　　　| 计数器  ：counter-reset...  
-　　　　　　| 文本容器：content
+　　　　　　| 文本容器：content  
 　　　　　　| 优化准备：will  
 　　　　　　| 事件穿透：pointer-events  
 　　　　　　| 渲染样式：appearance  
